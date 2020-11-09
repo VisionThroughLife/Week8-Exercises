@@ -1,0 +1,41 @@
+body{
+
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: rgb(104, 113, 119);
+
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+li{
+    list-style: none;
+    list-style-position: left;
+    padding-top:10px;
+}
+
+#result p{
+ padding:20px;
+ background-color: chocolate;
+}
+
+body{
+
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: rgb(30, 183, 210);
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+li{
+    list-style: none;
+    list-style-position: left;
+    padding-top:10px;
+}
